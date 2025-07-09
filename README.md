@@ -1,1 +1,1 @@
-# palestra-inovacao-vital-ai-bolt
+vital-ai-bolt
